@@ -56,7 +56,7 @@ objetivo   : estágio em tecnologia
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cs,arduino,html,vscode,visualstudio&theme=dark&perline=6" alt="Ícones: C, C#, Arduino, HTML, VS Code e Visual Studio"/>
+<img src="https://skillicons.dev/icons?i=c,cs,arduino,vscode,visualstudio&theme=dark&perline=6" alt="Ícones: C, C#, Arduino, VS Code e Visual Studio"/>
 
 <br/><br/>
 
