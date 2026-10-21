@@ -20,11 +20,10 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="center">
 
 Gosto de projetos em que o código sai da tela e ganha forma física: sensores, microcontroladores, circuitos e peças modeladas em 3D trabalhando juntos.
 
-Aprendo construindo, documentando e melhorando cada versão.
 
 </td>
 <td width="42%" valign="top">
