@@ -11,7 +11,6 @@
 ![Status](https://img.shields.io/badge/STATUS-ABERTO%20A%20EST%C3%81GIO-FF6F00?style=for-the-badge&labelColor=0B1220)
 ![Foco](https://img.shields.io/badge/FOCO-SOFTWARE%20%2B%20HARDWARE-00979D?style=for-the-badge&labelColor=0B1220)
 ![Local](https://img.shields.io/badge/LOCAL-PIRACICABA%2C%20SP-00C2CB?style=for-the-badge&labelColor=0B1220)
-![Visitas](https://komarev.com/ghpvc/?username=enricoqueiroz&style=for-the-badge&color=0B1220&labelColor=00979D&label=VISITAS)
 
 </div>
 
