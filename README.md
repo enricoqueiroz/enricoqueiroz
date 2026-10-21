@@ -22,7 +22,8 @@
 <tr>
 <td width="58%" valign="center">
 
-Gosto de projetos em que o código sai da tela e ganha forma física: sensores, microcontroladores, circuitos e peças modeladas em 3D trabalhando juntos.
+Estudante de Engenharia de Computação em Piracicaba, SP. Gosto de unir software e hardware: programo em C e C#, monto circuitos com Arduino
+e modelo peças em 3D no Autodesk Inventor. Estou em busca da minha primeira oportunidade na área de tecnologia.
 
 </td>
 <td width="42%" valign="top">
