@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=240&color=0:0B1220,55:00979D,100:00C2CB&text=Enrico%20Queiroz&fontColor=E6EDF3&fontSize=58&fontAlignY=42&desc=Software%20%2B%20Hardware&descAlign=50&descAlignY=66&descSize=22&animation=fadeIn" alt="Banner: Enrico Queiroz, Software + Hardware" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=240&color=0:0B1220,55:00979D,100:00C2CB&text=Enrico%20Queiroz&fontColor=E6EDF3&fontSize=58&fontAlignY=42&desc=Software%20%2B%20Hardware&descAlign=50&descAlignY=66&descSize=22&animation=fadeIn" alt="Banner: Enrico Queiroz, Engenharia de Computação" width="100%"/>
 
 <a href="https://github.com/enricoqueiroz">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&height=40&lines=Estudante+de+tecnologia;Programa%C3%A7%C3%A3o+em+C+e+C%23;Arduino%2C+eletr%C3%B4nica+e+modelagem+3D;Aberto+a+oportunidades+de+est%C3%A1gio" alt="Texto animado: estudante de tecnologia, programação em C e C#, Arduino, eletrônica e modelagem 3D, aberto a estágio" />
