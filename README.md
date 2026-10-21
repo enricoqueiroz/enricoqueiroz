@@ -1,71 +1,85 @@
-<!-- Paleta: fundo #0B1220 | ciano #00C2CB | laranja #FF6F00 | texto #E6EDF3 -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1220,50:00979D,100:00C2CB&text=Enrico%20Queiroz&fontColor=E6EDF3&fontSize=52&fontAlignY=36&desc=Software%20%2B%20Hardware&descSize=20&descAlignY=58&animation=fadeIn" alt="Banner: Enrico Queiroz, Software + Hardware" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=240&color=0:0B1220,55:00979D,100:00C2CB&text=Enrico%20Queiroz&fontColor=E6EDF3&fontSize=58&fontAlignY=42&desc=Software%20%2B%20Hardware&descAlign=50&descAlignY=66&descSize=22&animation=fadeIn" alt="Banner: Enrico Queiroz, Software + Hardware" width="100%"/>
 
 <a href="https://github.com/enricoqueiroz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00C2CB&center=true&vCenter=true&width=640&lines=Estudante+de+tecnologia;Programa%C3%A7%C3%A3o+em+C+e+C%23;Arduino%2C+eletr%C3%B4nica+e+modelagem+3D;Aberto+a+oportunidades+de+est%C3%A1gio" alt="Texto animado: estudante de tecnologia, programação em C e C#, Arduino, eletrônica e modelagem 3D, aberto a estágio" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&height=40&lines=Estudante+de+tecnologia;Programa%C3%A7%C3%A3o+em+C+e+C%23;Arduino%2C+eletr%C3%B4nica+e+modelagem+3D;Aberto+a+oportunidades+de+est%C3%A1gio" alt="Texto animado: estudante de tecnologia, programação em C e C#, Arduino, eletrônica e modelagem 3D, aberto a estágio" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Status](https://img.shields.io/badge/STATUS-ABERTO%20A%20EST%C3%81GIO-FF6F00?style=for-the-badge&labelColor=0B1220)
 ![Foco](https://img.shields.io/badge/FOCO-SOFTWARE%20%2B%20HARDWARE-00979D?style=for-the-badge&labelColor=0B1220)
 ![Local](https://img.shields.io/badge/LOCAL-PIRACICABA%2C%20SP-00C2CB?style=for-the-badge&labelColor=0B1220)
+![Visitas](https://komarev.com/ghpvc/?username=enricoqueiroz&style=for-the-badge&color=0B1220&labelColor=00979D&label=VISITAS)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00C2CB,100:FF6F00" width="100%" alt=""/>
 
 ## 𝗦𝗢𝗕𝗥𝗘 𝗠𝗜𝗠
 
-```text
-nome        : Enrico Queiroz
-perfil      : estudante de tecnologia
-foco        : 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 + 𝚑𝚊𝚛𝚍𝚠𝚊𝚛𝚎
-linguagens  : C, C#
-plataformas : Arduino
-modelagem   : Autodesk Inventor
-objetivo    : estágio na área de tecnologia
-```
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
-Gosto de projetos em que o código sai da tela e ganha forma física: sensores, microcontroladores, circuitos e peças modeladas em 3D trabalhando juntos. Aprendo construindo, documentando e melhorando cada versão.
+Gosto de projetos em que o código sai da tela e ganha forma física: sensores, microcontroladores, circuitos e peças modeladas em 3D trabalhando juntos.
 
-<br/>
+Aprendo construindo, documentando e melhorando cada versão.
 
-## 𝗢 𝗤𝗨𝗘 𝗘𝗦𝗧𝗢𝗨 𝗙𝗔𝗭𝗘𝗡𝗗𝗢
-
+**Agora**
 - Estudando programação em **C** e **C#**
 - Desenvolvendo projetos com **Arduino**, **eletrônica** e **modelagem 3D**
-- Organizando e documentando meus repositórios
-- Em busca de uma oportunidade de **estágio** para aplicar e ampliar o que aprendo
+- Em busca de uma oportunidade de **estágio**
 
-<br/>
+    </td>
+    <td width="42%" valign="top">
+
+```text
+nome       : Enrico Queiroz
+perfil     : estudante de tecnologia
+foco       : 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 + 𝚑𝚊𝚛𝚍𝚠𝚊𝚛𝚎
+linguagens : C, C#
+placa      : Arduino
+modelagem  : Autodesk Inventor
+objetivo   : estágio em tecnologia
+```
+
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00C2CB,100:FF6F00" width="100%" alt=""/>
+
+## 𝗖𝗢𝗠𝗢 𝗘𝗨 𝗧𝗥𝗔𝗕𝗔𝗟𝗛𝗢
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B1220','primaryTextColor':'#E6EDF3','primaryBorderColor':'#00C2CB','lineColor':'#FF6F00','fontFamily':'monospace'}}}%%
+flowchart LR
+    A[Ideia] --> B[Código em C e C#]
+    B --> C[Circuito com Arduino]
+    C --> D[Modelagem 3D no Inventor]
+    D --> E[Protótipo funcional]
+    E -. melhoria .-> A
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00C2CB,100:FF6F00" width="100%" alt=""/>
 
 ## 𝗧𝗘𝗖𝗡𝗢𝗟𝗢𝗚𝗜𝗔𝗦
 
-**Linguagens**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cs,arduino,git,github,vscode,visualstudio&theme=dark&perline=7" alt="Ícones: C, C#, Arduino, Git, GitHub, VS Code e Visual Studio"/>
 
-**Hardware e eletrônica**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Eletrônica](https://img.shields.io/badge/Eletr%C3%B4nica-FF6F00?style=for-the-badge)
-
-**Modelagem e design**
+<br/><br/>
 
 ![Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Eletrônica](https://img.shields.io/badge/Eletr%C3%B4nica-FF6F00?style=for-the-badge)
+![Modelagem 3D](https://img.shields.io/badge/Modelagem%203D-00979D?style=for-the-badge)
 
-**Ferramentas**
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00C2CB,100:FF6F00" width="100%" alt=""/>
 
 ## 𝗣𝗥𝗢𝗝𝗘𝗧𝗢𝗦 𝗘𝗠 𝗗𝗘𝗦𝗧𝗔𝗤𝗨𝗘
 
@@ -76,4 +90,63 @@ Gosto de projetos em que o código sai da tela e ganha forma física: sensores, 
       <p>Vaso inteligente com Arduino e modelagem 3D. Une sensores, lógica de controle e uma estrutura projetada sob medida.</p>
       <p>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-        <img src="https://img.shields.io/badge/Inventor-0
+        <img src="https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Inventor"/>
+        <img src="https://img.shields.io/badge/Eletr%C3%B4nica-FF6F00?style=flat-square" alt="Eletrônica"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/enricoqueiroz/projetos-csharp">projetos-csharp</a></h3>
+      <p>Coleção de aplicações desktop em C#, com foco em prática de lógica, interface e organização de código.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+        <img src="https://img.shields.io/badge/Desktop-0B1220?style=flat-square" alt="Desktop"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/enricoqueiroz/smart-planter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=enricoqueiroz&repo=smart-planter&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=FF6F00&text_color=8B949E" alt="Cartão do repositório smart-planter"/></a>
+<a href="https://github.com/enricoqueiroz/projetos-csharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=enricoqueiroz&repo=projetos-csharp&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=FF6F00&text_color=8B949E" alt="Cartão do repositório projetos-csharp"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00C2CB,100:FF6F00" width="100%" alt=""/>
+
+## 𝗔𝗧𝗜𝗩𝗜𝗗𝗔𝗗𝗘 𝗡𝗢 𝗚𝗜𝗧𝗛𝗨𝗕
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=enricoqueiroz&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=FF6F00&text_color=8B949E&ring_color=00C2CB&count_private=true" alt="Estatísticas do GitHub de Enrico"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoqueiroz&layout=compact&hide_border=true&bg_color=00000000&title_color=00C2CB&text_color=8B949E" alt="Linguagens mais usadas"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enricoqueiroz&hide_border=true&background=00000000&stroke=00979D&ring=00C2CB&fire=FF6F00&currStreakNum=00C2CB&sideNums=8B949E&currStreakLabel=00C2CB&sideLabels=8B949E&dates=8B949E" alt="Sequência de contribuições"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enricoqueiroz&bg_color=0B1220&color=00C2CB&line=00C2CB&point=FF6F00&area=true&area_color=00979D&hide_border=true&radius=12" alt="Gráfico de atividade no GitHub" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=enricoqueiroz&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=12" alt="Troféus do GitHub"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00C2CB,100:FF6F00" width="100%" alt=""/>
+
+## 𝗖𝗢𝗡𝗧𝗔𝗧𝗢
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enricoqueiroz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enricoqueiroz)
+[![E-mail](https://img.shields.io/badge/E--mail-00979D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enricoqueiroz10@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C2CB,50:00979D,100:0B1220&section=footer" alt="Rodapé" width="100%"/>
+
+</div>
