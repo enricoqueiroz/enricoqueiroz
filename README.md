@@ -19,4 +19,4 @@ Estudante apaixonado por tecnologia, criando projetos que unem **software e hard
 - [projetos-csharp](https://github.com/enricoqueiroz/projetos-csharp): aplicações desktop em C#
 
 ## 📬 Contato
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) (www.linkedin.com/in/enricoqueiroz)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/enricoqueiroz
