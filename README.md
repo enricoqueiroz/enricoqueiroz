@@ -20,48 +20,38 @@
 ## 𝗦𝗢𝗕𝗥𝗘 𝗠𝗜𝗠
 
 <table>
-  <tr>
-    <td width="58%" valign="top">
+<tr>
+<td width="58%" valign="top">
 
 Gosto de projetos em que o código sai da tela e ganha forma física: sensores, microcontroladores, circuitos e peças modeladas em 3D trabalhando juntos.
 
 Aprendo construindo, documentando e melhorando cada versão.
 
-**Agora**
-- Estudando programação em **C** e **C#**
-- Desenvolvendo projetos com **Arduino**, **eletrônica** e **modelagem 3D**
-- Em busca de uma oportunidade de **estágio**
-
-    </td>
-    <td width="42%" valign="top">
+</td>
+<td width="42%" valign="top">
 
 ```text
 nome       : Enrico Queiroz
 perfil     : estudante de tecnologia
-foco       : 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 + 𝚑𝚊𝚛𝚍𝚠𝚊𝚛𝚎
+foco       : automação e 𝚑𝚊𝚛𝚍𝚠𝚊𝚛𝚎
 linguagens : C, C#
 placa      : Arduino
 modelagem  : Autodesk Inventor
 objetivo   : estágio em tecnologia
 ```
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00C2CB,100:FF6F00" width="100%" alt=""/>
 
-## 𝗖𝗢𝗠𝗢 𝗘𝗨 𝗧𝗥𝗔𝗕𝗔𝗟𝗛𝗢
+## 𝗢 𝗤𝗨𝗘 𝗘𝗦𝗧𝗢𝗨 𝗙𝗔𝗭𝗘𝗡𝗗𝗢
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B1220','primaryTextColor':'#E6EDF3','primaryBorderColor':'#00C2CB','lineColor':'#FF6F00','fontFamily':'monospace'}}}%%
-flowchart LR
-    A[Ideia] --> B[Código em C e C#]
-    B --> C[Circuito com Arduino]
-    C --> D[Modelagem 3D no Inventor]
-    D --> E[Protótipo funcional]
-    E -. melhoria .-> A
-```
+- Cursando Engenharia de Computação
+- Estudando programação em **C** e **C#**
+- Desenvolvendo projetos com **Arduino**, **eletrônica** e **modelagem 3D**
+- Aberto a oportunidades de **estágio**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00C2CB,100:FF6F00" width="100%" alt=""/>
 
@@ -69,7 +59,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cs,arduino,git,github,vscode,visualstudio&theme=dark&perline=7" alt="Ícones: C, C#, Arduino, Git, GitHub, VS Code e Visual Studio"/>
+<img src="https://skillicons.dev/icons?i=c,cs,arduino,vscode,visualstudio&theme=dark&perline=5" alt="Ícones: C, C#, Arduino, VS Code e Visual Studio"/>
 
 <br/><br/>
 
@@ -84,54 +74,31 @@ flowchart LR
 ## 𝗣𝗥𝗢𝗝𝗘𝗧𝗢𝗦 𝗘𝗠 𝗗𝗘𝗦𝗧𝗔𝗤𝗨𝗘
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/enricoqueiroz/smart-planter">smart-planter</a></h3>
-      <p>Vaso inteligente com Arduino e modelagem 3D. Une sensores, lógica de controle e uma estrutura projetada sob medida.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-        <img src="https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Inventor"/>
-        <img src="https://img.shields.io/badge/Eletr%C3%B4nica-FF6F00?style=flat-square" alt="Eletrônica"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/enricoqueiroz/projetos-csharp">projetos-csharp</a></h3>
-      <p>Coleção de aplicações desktop em C#, com foco em prática de lógica, interface e organização de código.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-        <img src="https://img.shields.io/badge/Desktop-0B1220?style=flat-square" alt="Desktop"/>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/enricoqueiroz/smart-planter">smart-planter</a></h3>
+<p>Vaso inteligente com Arduino e modelagem 3D. Une sensores, lógica de controle e uma estrutura projetada sob medida.</p>
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Inventor"/>
+<img src="https://img.shields.io/badge/Eletr%C3%B4nica-FF6F00?style=flat-square" alt="Eletrônica"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/enricoqueiroz/projetos-csharp">projetos-csharp</a></h3>
+<p>Coleção de aplicações desktop em C#, com foco em prática de lógica, interface e organização de código.</p>
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Desktop-0B1220?style=flat-square" alt="Desktop"/>
+</p>
+</td>
+</tr>
 </table>
 
 <div align="center">
 
 <a href="https://github.com/enricoqueiroz/smart-planter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=enricoqueiroz&repo=smart-planter&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=FF6F00&text_color=8B949E" alt="Cartão do repositório smart-planter"/></a>
 <a href="https://github.com/enricoqueiroz/projetos-csharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=enricoqueiroz&repo=projetos-csharp&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=FF6F00&text_color=8B949E" alt="Cartão do repositório projetos-csharp"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00C2CB,100:FF6F00" width="100%" alt=""/>
-
-## 𝗔𝗧𝗜𝗩𝗜𝗗𝗔𝗗𝗘 𝗡𝗢 𝗚𝗜𝗧𝗛𝗨𝗕
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=enricoqueiroz&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C2CB&icon_color=FF6F00&text_color=8B949E&ring_color=00C2CB&count_private=true" alt="Estatísticas do GitHub de Enrico"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoqueiroz&layout=compact&hide_border=true&bg_color=00000000&title_color=00C2CB&text_color=8B949E" alt="Linguagens mais usadas"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enricoqueiroz&hide_border=true&background=00000000&stroke=00979D&ring=00C2CB&fire=FF6F00&currStreakNum=00C2CB&sideNums=8B949E&currStreakLabel=00C2CB&sideLabels=8B949E&dates=8B949E" alt="Sequência de contribuições"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enricoqueiroz&bg_color=0B1220&color=00C2CB&line=00C2CB&point=FF6F00&area=true&area_color=00979D&hide_border=true&radius=12" alt="Gráfico de atividade no GitHub" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=enricoqueiroz&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=12" alt="Troféus do GitHub"/>
 
 </div>
 
